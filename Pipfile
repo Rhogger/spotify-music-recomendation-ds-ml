@@ -5,17 +5,15 @@ name = "pypi"
 
 [packages]
 seaborn = "*"
-plotly = "*"
 pandas = "*"
 numpy = "*"
 ruff = "*"
 scikit-learn = "*"
-requests = "*"
 kagglehub = "*"
+gradio = "*"
 
 [dev-packages]
 ipykernel = "*"
-requests = "*"
 python-dotenv = "*"
 
 [requires]
