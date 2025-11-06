@@ -14,7 +14,6 @@ gradio = "*"
 
 [dev-packages]
 ipykernel = "*"
-python-dotenv = "*"
 
 [requires]
 python_version = "3.12"
