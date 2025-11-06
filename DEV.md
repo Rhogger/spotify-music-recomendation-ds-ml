@@ -116,20 +116,3 @@ pipenv run ruff format .
 # Certifique-se de que o ambiente está ativado
 ruff format .
 ```
-
-### Executar Testes
-
-**Com Pipenv:**
-
-```bash
-# Adicionar comando quando os testes estiverem configurados
-pipenv run pytest
-```
-
-**Com venv:**
-
-```bash
-# Certifique-se de que o ambiente está ativado
-# Adicionar comando quando os testes estiverem configurados
-pytest
-```
